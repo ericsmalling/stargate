@@ -20,7 +20,7 @@
       cassandra-all's POM).
     -->
     <!-- Later patch version should be fine -->
-    <cassandra.bundled-driver.version>3.11.3</cassandra.bundled-driver.version>
+    <cassandra.bundled-driver.version>4.0.0</cassandra.bundled-driver.version>
   </properties>
   <dependencyManagement>
     <dependencies>
